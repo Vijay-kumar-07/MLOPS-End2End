@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-end-ML-Project-with-MLflow"
 AUTHOR_USER_NAME = "Vijay"
-SRC_REPO = "MLOPS-END2END"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "vijayb@dataflix.com"
 
 
