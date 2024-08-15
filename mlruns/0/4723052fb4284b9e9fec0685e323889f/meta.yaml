@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Office/MLOps/MLOPS-End2End/mlruns/0/4723052fb4284b9e9fec0685e323889f/artifacts
+end_time: 1723749904747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4723052fb4284b9e9fec0685e323889f
+run_name: enthused-seal-18
+run_uuid: 4723052fb4284b9e9fec0685e323889f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723749900148
+status: 3
+tags: []
+user_id: vijay

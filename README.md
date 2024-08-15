@@ -65,19 +65,19 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Vijay-kumar-07/MLOPS-End2End.mlflow \
-MLFLOW_TRACKING_USERNAME=Vijay-Kumar-07 \
-MLFLOW_TRACKING_PASSWORD= xxxxxxxx\
+MLFLOW_TRACKING_USERNAME=Vijay-kumar-07 \
+MLFLOW_TRACKING_PASSWORD=e85530eeea963589bc3b9bb892b0a0b0e401e22b \
 python script.py
 
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
+export MLFLOW_TRACKING_URI=:https://dagshub.com/Vijay-kumar-07/MLOPS-End2End.mlflow
 
-export MLFLOW_TRACKING_USERNAME=Vijay-Kumar-07 
+export MLFLOW_TRACKING_USERNAME=Vijay-kumar-07 
 
-export MLFLOW_TRACKING_PASSWORD=xxxxxxxx
+export MLFLOW_TRACKING_PASSWORD=e85530eeea963589bc3b9bb892b0a0b0e401e22b
 
 ```
 
